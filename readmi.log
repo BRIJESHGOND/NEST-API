@@ -1,0 +1,35 @@
+Required :
+
+Install this in your system.
+ 
+npm i -g @nestjs/cli # it will install the nest command
+
+
+https://auth0.com/blog/full-stack-typescript-apps-part-1-developing-backend-apis-with-nestjs/
+
+https://www.npmjs.com/package/ts-node
+
+
+
+RUN : 
+nodemon
+
+
+-========================Post method for post man==============
+ 
+POST /payer HTTP/1.1
+Host: localhost:3000
+Content-Type: application/json
+Cache-Control: no-cache
+Postman-Token: 4994ab7d-5acc-4af1-b0e9-25610698188a
+ 
+ 
+{
+"code": "007",
+"description":"chetan@patil.com",
+"is_active":"true1"
+}
+-========================
+ 
+get method for http://localhost:3000/payer
+

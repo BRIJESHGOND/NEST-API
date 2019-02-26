@@ -113,3 +113,4 @@
 [2019-02-13T11:31:52.151Z][QUERY]: SELECT "mst_payer"."id" AS "mst_payer_id", "mst_payer"."code" AS "mst_payer_code", "mst_payer"."description" AS "mst_payer_description", "mst_payer"."is_active" AS "mst_payer_is_active" FROM "mst_payer" "mst_payer"
 [2019-02-18T11:17:09.027Z][QUERY]: SELECT "Payer"."id" AS "Payer_id", "Payer"."code" AS "Payer_code", "Payer"."description" AS "Payer_description", "Payer"."is_active" AS "Payer_is_active" FROM "mst_payer" "Payer"
 [2019-02-26T08:41:13.490Z][QUERY]: SELECT "Payer"."id" AS "Payer_id", "Payer"."code" AS "Payer_code", "Payer"."description" AS "Payer_description", "Payer"."is_active" AS "Payer_is_active" FROM "mst_payer" "Payer"
+[2019-02-26T08:51:04.361Z][QUERY]: SELECT "Payer"."id" AS "Payer_id", "Payer"."code" AS "Payer_code", "Payer"."description" AS "Payer_description", "Payer"."is_active" AS "Payer_is_active" FROM "mst_payer" "Payer"
