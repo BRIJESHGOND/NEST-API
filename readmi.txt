@@ -33,3 +33,13 @@ Postman-Token: 4994ab7d-5acc-4af1-b0e9-25610698188a
  
 get method for http://localhost:3000/payer
 
+
+=======================================
+ENTITY
+INTERFACE
+PROVIDER
+DB
+SERVICE
+CONTROLLER
+MODULE
+ENTITTY IN DB PROVIDER
